@@ -1,0 +1,105 @@
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\bin\Debug\Thermocycle-250.exe
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\bin\Debug\Thermocycle-250.pdb
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\Thermocycle-250.exe
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\Thermocycle-250.pdb
+C:\My_Self_Education\VisualStudio Projects\140523_VS_(Temp_Graph)\Temp_Graph\temperature_graph\obj\Debug\temperature_graph.csprojAssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\bin\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (180623)\temperature_graph\obj\Debug\temperature_graph.report.resources
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.report.resources
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\Thermocycle-250.exe
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\obj\Debug\Thermocycle-250.pdb
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\bin\Debug\Thermocycle-250.exe
+C:\barvv\Self_Edu_vivo\Visual_Studio\Temp_Graph (270623)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\bin\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.report.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (280623)\temperature_graph\obj\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\bin\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.report.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (290623)\temperature_graph\obj\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\bin\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.instruction.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.report.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (300623)\temperature_graph\obj\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.instruction.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.report.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\obj\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\bin\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (030723)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\bin\Debug\Thermocycle-250.exe.config
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\bin\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\bin\Debug\Thermocycle-250.pdb
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.csproj.AssemblyReference.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.csproj.SuggestedBindingRedirects.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.aboutProgramm.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.Form1.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.instruction.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.Properties.Resources.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.report.resources
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.csproj.GenerateResource.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\temperature_graph.csproj.CoreCompileInputs.cache
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\Thermocycle-250.exe
+D:\barvv\Visual Studio Projects\Temp_Graph (050723)\temperature_graph\obj\Debug\Thermocycle-250.pdb
